@@ -1,5 +1,5 @@
 # UFO50_Mods
-Assorted mods for UFO 50
+Assorted mods for [UFO 50](https://50games.fun/)
 
 ## Overview
 See [here](https://discord.com/channels/525973026429206530/1297055481746952294/1297062162770034702) for instructions on installing mods with Delta Patcher.
